@@ -1,4 +1,4 @@
-# Dépôt git pour les cours/exercices HTML
+# Dépôt git pour les cours et exercices HTML
 
 ***
 
