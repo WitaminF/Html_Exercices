@@ -3,19 +3,22 @@
 ***
 
 
-##Parcours complet : Mastering Front-End
+## Parcours complet : Mastering Front-End
 
 Par From Scratch - Développement web (formation payante)<br>
-Réalisé par Florent Scheibler<br>
+Réalisé par Florent Scheibler sur PhpStorm <br>
 *Avril 2022*
 
-## Travaux pratiques:
+## Travaux pratiques :
 
 - TP1 : réaliser un tableau complexe
 
+## Ressources
 
-### Liens utiles:
+Contient les fichiers de bases fournis dans la formation ainsi que les corrections des travaux pratiques.
+
+### Liens utiles :
 
 - HTML Cheat Sheet : https://htmlcheatsheet.com/
-- Icones en HTML : https://www.toptal.com/designers/htmlarrows/symbols/
+- Icônes en HTML : https://www.toptal.com/designers/htmlarrows/symbols/
 - Vidéo et photos gratuites : https://pixabay.com
