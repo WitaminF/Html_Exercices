@@ -1,6 +1,13 @@
-# Dépôt git pour les cours HTML
+# Dépôt git pour les cours/exercices HTML
 
 ***
+
+## Formation:
+
+
+Parcours complet : Mastering Front-End <br> <br>
+Par From Scratch - Développement web
+
 
 ### Liens utiles:
 
