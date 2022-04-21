@@ -2,11 +2,16 @@
 
 ***
 
-## Formation:
 
+##Parcours complet : Mastering Front-End
 
-Parcours complet : Mastering Front-End <br> <br>
-Par From Scratch - Développement web
+Par From Scratch - Développement web (formation payante)<br>
+Réalisé par Florent Scheibler<br>
+*Avril 2022*
+
+## Travaux pratiques:
+
+- TP1 : réaliser un tableau complexe
 
 
 ### Liens utiles:
