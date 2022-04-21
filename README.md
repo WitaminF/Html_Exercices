@@ -12,6 +12,7 @@ Réalisé par Florent Scheibler sur PhpStorm <br>
 ## Travaux pratiques :
 
 - TP1 : réaliser un tableau complexe
+- TP2 : intégrer une maquette simple
 
 ## Ressources
 
