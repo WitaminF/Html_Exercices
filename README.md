@@ -14,9 +14,10 @@ Réalisé par Florent Scheibler sur PhpStorm <br>
 - TP1 : réaliser un tableau complexe
 - TP2 : intégrer une maquette simple
 
-## Ressources
+## Architecture de dossiers :
 
-Contient les fichiers de bases fournis dans la formation ainsi que les corrections des travaux pratiques.
+Tous les dossiers de travaux pratiques contiennent un dossier *Ressources* pour les fichiers de corrections et images 
+nécessaires à la réalisation de ceux-ci.
 
 ### Liens utiles :
 
