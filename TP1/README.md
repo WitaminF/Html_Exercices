@@ -1,5 +1,7 @@
 # Travail pratique no1
 
-## Réaliser un tableau complexe uniquement avec HTML.
+## Réaliser un tableau complexe uniquement
 
-![résultat tableau](https://raw.githubusercontent.com/WitaminF/Html_Exercices/main/TP1/Ressources/TP1/html-tp1-tableaux.jpg)
+### Consigne: A l'aide d'html uniquement, réaliser le tableau ci-dessous <br><br><br>
+
+![résultat tableau](https://raw.githubusercontent.com/WitaminF/Html_Exercices/main/TP1/Ressources/html-tp1-tableaux.jpg)
