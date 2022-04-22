@@ -2,7 +2,6 @@
 
 ***
 
-
 ## Parcours complet : Mastering Front-End
 
 Par From Scratch - Développement web (formation payante)<br>
@@ -16,8 +15,8 @@ Réalisé par Florent Scheibler sur PhpStorm <br>
 
 ## Architecture de dossiers :
 
-Tous les dossiers de travaux pratiques contiennent un dossier *Ressources* pour les fichiers de corrections et images 
-nécessaires à la réalisation de ceux-ci.
+Tous les dossiers TP contiennent un dossier *Ressources* pour les fichiers de corrections et images 
+nécessaires à la réalisation des travaux pratiques.
 
 ### Liens utiles :
 
